@@ -356,4 +356,7 @@ Responsive start (Mobile Device)
     .footer-menu{
         display: grid;
     }
+     .view-all{
+        display: none;
+    } 
 }
